@@ -1,155 +1,770 @@
 {
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "has_rotten_flesh": "2025-04-16 02:29:25 +0000"
     },
     "done": true
   },
-  "man:feelingwatched": {
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_bath": {
     "criteria": {
-      "feelingwatched": "2025-04-15 21:45:40 +0000"
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/refurbished_furniture/constructing/deepslate_stepping_stones": {
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/warped_bath": {
     "criteria": {
-      "has_deepslate": "2025-04-15 22:01:21 +0000"
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/mangrove_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/dark_oak_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/television_remote": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "in_water": "2025-04-16 02:20:29 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "in_water": "2025-04-16 02:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "in_water": "2025-04-16 02:20:29 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/hellbark_boat": {
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/black_trampoline": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_lamp": {
+    "criteria": {
+      "has_wool": "2025-04-16 02:31:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/knife": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
     },
     "done": true
   },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
-      "theundeadchallenges": "2025-04-15 21:41:29 +0000"
+      "theundeadchallenges": "2025-04-16 02:14:15 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/yellow_trampoline": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "has_string": "2025-04-16 02:29:52 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_toilet": {
     "criteria": {
-      "minecraft:savanna_plateau": "2025-04-14 23:19:31 +0000",
-      "minecraft:river": "2025-04-15 21:57:45 +0000",
-      "minecraft:forest": "2025-04-15 21:45:01 +0000",
-      "minecraft:savanna": "2025-04-15 21:45:38 +0000",
-      "minecraft:plains": "2025-04-15 21:46:51 +0000"
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "biomesoplenty:recipes/transportation/magic_boat": {
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_basin": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "in_water": "2025-04-16 02:20:29 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/laser_block": {
+  "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
-      "has_stone": "2025-04-15 22:01:21 +0000"
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "in_water": "2025-04-16 02:20:29 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "consumed_item": "2025-04-15 21:57:10 +0000"
+      "diamond_helmet": "2025-04-16 02:22:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "has_lots_of_items": "2025-04-16 02:22:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/green_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "in_water": "2025-04-16 02:20:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "has_wool": "2025-04-16 02:31:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/warped_basin": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/cherry_boat": {
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_toilet": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:40 +0000"
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/mangrove_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-04-16 02:14:54 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "in_water": "2025-04-16 02:20:29 +0000"
     },
     "done": true
   },
-  "immersive_weathering:immersive_weathering/dirts": {
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_kitchen_sink": {
     "criteria": {
-      "grass": "2025-04-15 21:58:17 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-04-15 21:45:40 +0000"
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/fir_boat": {
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_basin": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "in_water": "2025-04-15 21:45:41 +0000"
+      "in_water": "2025-04-16 02:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-16 02:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-16 02:14:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/light_blue_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/brown_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-16 02:15:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/pink_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-04-16 02:14:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-04-16 02:22:58 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-04-16 02:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-16 02:29:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "woodland": "2025-04-16 02:14:16 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-04-16 02:14:54 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2025-04-16 02:19:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 02:20:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/dark_oak_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-04-16 02:31:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/wrench": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-16 02:14:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed": "2025-04-16 02:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 02:20:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 02:20:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/magenta_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/white_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-16 02:31:34 +0000"
+    },
+    "done": true
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched": "2025-04-16 02:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-16 02:29:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-16 02:15:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-04-16 02:29:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2025-04-16 02:14:16 +0000",
+      "shrubland": "2025-04-16 02:16:10 +0000",
+      "scrubland": "2025-04-16 02:15:59 +0000",
+      "mediterranean_forest": "2025-04-16 02:30:49 +0000",
+      "wasteland": "2025-04-16 02:17:40 +0000",
+      "grassland": "2025-04-16 02:16:41 +0000",
+      "rainforest": "2025-04-16 02:16:51 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/light_gray_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 02:20:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/television": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-04-16 02:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-04-16 02:16:56 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-16 02:16:57 +0000",
+      "minecraft:river": "2025-04-16 02:16:38 +0000",
+      "minecraft:desert": "2025-04-16 02:18:10 +0000",
+      "minecraft:jungle": "2025-04-16 02:16:55 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/orange_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-16 02:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-16 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/blue_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 02:20:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/spatula": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-04-16 02:31:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/gray_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-04-16 02:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 02:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-16 02:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-16 02:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 02:20:29 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_stool": {
+    "criteria": {
+      "has_wool": "2025-04-16 02:31:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/dark_oak_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 02:20:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/mangrove_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-16 02:29:30 +0000",
+      "minecraft:spider": "2025-04-16 02:29:51 +0000",
+      "minecraft:creeper": "2025-04-16 02:29:48 +0000",
+      "minecraft:zombie": "2025-04-16 02:29:14 +0000"
+    },
+    "done": false
+  },
+  "another_furniture:recipes/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-16 02:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-16 02:22:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/light_fridge": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 02:20:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/lime_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/red_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-16 02:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/computer": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_curtain": {
+    "criteria": {
+      "has_wool": "2025-04-16 02:31:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_trampoline": {
+    "criteria": {
+      "has_string": "2025-04-16 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 02:20:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/warped_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-16 02:29:26 +0000"
     },
     "done": true
   },
